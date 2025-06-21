@@ -1,3 +1,9 @@
+                                    Има доста бъгове като за първи проект, в скоро време ще бъде оптимизиран, приложението е генерирано с AI като основа.
+
+
+
+
+
 # Python Learning Platform 🐍
 
 An interactive Python learning platform built with Streamlit that provides comprehensive educational experience for beginners.
